@@ -1,0 +1,10 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoDateTime\obj\Debug\netcoreapp2.1\DemoDateTime.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoDateTime\obj\Debug\netcoreapp2.1\DemoDateTime.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoDateTime\obj\Debug\netcoreapp2.1\DemoDateTime.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoDateTime\bin\Debug\netcoreapp2.1\DemoDateTime.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoDateTime\bin\Debug\netcoreapp2.1\DemoDateTime.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoDateTime\bin\Debug\netcoreapp2.1\DemoDateTime.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoDateTime\bin\Debug\netcoreapp2.1\DemoDateTime.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoDateTime\bin\Debug\netcoreapp2.1\DemoDateTime.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoDateTime\obj\Debug\netcoreapp2.1\DemoDateTime.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoDateTime\obj\Debug\netcoreapp2.1\DemoDateTime.pdb
